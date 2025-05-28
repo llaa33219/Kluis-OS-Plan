@@ -1,0 +1,31 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="1200" height="1200">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #ffffff } 
+		.s1 { fill: none;stroke: #00c1ff;stroke-miterlimit:100;stroke-width: 100 } 
+		.t2 { font-size: 300px;fill: #4f80ff;font-weight: 900;font-family: "NotoSansKR-Black", "Noto Sans KR" } 
+	</style>
+	<path id="Layer 1" fill-rule="evenodd" class="s0" d="m600 1200c-331.8 0-600-268.2-600-600 0-331.8 268.2-600 600-600 331.8 0 600 268.2 600 600 0 331.8-268.2 600-600 600z"/>
+	<path id="Background" fill-rule="evenodd" class="s1" d="m600 975c-207.4 0-375-167.6-375-375 0-207.4 167.6-375 375-375 207.4 0 375 167.6 375 375 0 207.4-167.6 375-375 375z"/>
+	<text id="K" style="transform: matrix(1,0,0,1,490,349)" >
+		<tspan x="0" y="0" class="t2">K
+</tspan>
+	</text>
+	<text id="l" style="transform: matrix(.375,.927,-0.927,.375,796.767,455.961)" >
+		<tspan x="0" y="0" class="t2">l
+</tspan>
+	</text>
+	<text id="u" style="transform: matrix(-0.624,.782,-0.782,-0.624,851.432,736.443)" >
+		<tspan x="0" y="0" class="t2">u
+</tspan>
+	</text>
+	<text id="i" style="transform: matrix(-0.713,-0.701,.701,-0.713,456.636,847.741)" >
+		<tspan x="0" y="0" class="t2">i
+</tspan>
+	</text>
+	<text id="s" style="transform: matrix(-0.388,.922,-0.922,-0.388,211.377,367.747)" >
+		<tspan x="0" y="0" class="t2">s
+</tspan>
+	</text>
+</svg>
